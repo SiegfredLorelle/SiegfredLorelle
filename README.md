@@ -85,12 +85,14 @@ TODO: story here
 </div>
 </details>
 
-
+<!-- `<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle"></a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle)](https://github.com/anuraghazra/github-readme-stats) -->
+`
 <!-- 
 TODOS:
 - Add infos on projects
 - Add infos on my story
 - Add info in contri
 - Test Wakatime
-- 
+- Deploy own vercel for readme stats and streak
  -->
