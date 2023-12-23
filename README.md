@@ -60,9 +60,17 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiegfredLorelle)](https://github.com/SiegfredLorelle/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiegfredLorelle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=SiegfredLorelle&width=390&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true">
+    <img width="400" src="https://streak-stats.demolab.com/?user=SiegfredLorelle&theme=dark">
+    <br />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark">
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiegfredLorelle&width=390&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark)]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SiegfredLorelle&theme=dark)](https://git.io/streak-stats)
 
