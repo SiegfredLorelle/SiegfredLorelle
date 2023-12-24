@@ -1,7 +1,11 @@
 # WIP
 
-### 🔥 Siegfred Lorelle Mina
+### <div align="right">[![committers.top badge](https://user-badge.committers.top/philippines/SiegfredLorelle.svg)](https://user-badge.committers.top/philippines/SiegfredLorelle)</div> 🔥 Siegfred Lorelle Mina 
 Hello I am **Sig**. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
+
+
+
+
 
 ---
 
@@ -50,7 +54,18 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 <details>
 <summary>📈 Stats</summary>
-TODO: socials here
+
+
+<img src="https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?label=Profile+Views&shadow=0&swap=1&labelBGColor=3e3e3e&countBGColor=a8a8a8&labelTextColor=ffffff&countTextColor=000000" height = 30px />
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiegfredLorelle)](https://github.com/SiegfredLorelle/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiegfredLorelle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SiegfredLorelle&theme=dark)](https://git.io/streak-stats)
+
 </details>
 
 ---
@@ -91,15 +106,11 @@ TODO: story here
 
 <!-- 
 TODOS:
-- Finish skills
-    - Add missing icons
-    - Use better icons for light and dark mode
 - Add infos on stats
 - Add infos on projects
 - Add infos on my journey
 - Toggle dropdown for stats, projects & journey
 - Add top commits badge
-- Convert skills and socials to be dropdown
  -->
 <!--
 **SiegfredLorelle/SiegfredLorelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
