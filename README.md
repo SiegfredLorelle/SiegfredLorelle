@@ -79,11 +79,11 @@ TODO: story here
 <details>
 <summary>🔗 Socials</summary>
 <div align="center">
-    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/socials/`github.svg" /></a>
-    <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/socials/`facebook.svg" /></a>
-    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons/socials/`mail.svg" /></a>
-    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/socials/`linkedin-in.svg" /></a>
-    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/socials/`globe.svg" /></a>
+    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/socials/github.svg" /></a>
+    <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/socials/facebook.svg" /></a>
+    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons//socials/mail.svg" /></a>
+    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/socials/linkedin-in.svg" /></a>
+    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/socials/globe.svg" /></a>
     <br />
 </div>
 </details>
