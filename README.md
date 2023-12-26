@@ -17,7 +17,7 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <br />
     <!-- Web Development -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flask,laravel,wordpress,supabase" />
-    <img alt="SQLAlechemy Logo" height="40px" width="40px" style="padding: 5px" src="./icons/sql-alchemy.png" />
+    <img alt="SQLAlechemy Logo" height="40px" width="40px" style="padding: 5px" src="./icons/skills-and-languages/sql-alchemy.png" />
     <br />
     <!-- Databases -->
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
@@ -27,12 +27,12 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <img alt="Matplotlib Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
     <img alt="Keras Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
     <img alt="Jupyter Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-    <img alt="Pandas Logo" height="40px" width="40px" style="padding: 5px" src="./icons/pandas.jpg" />
+    <img alt="Pandas Logo" height="40px" width="40px" style="padding: 5px" src="./icons/skills-and-languages/pandas.jpg" />
     <img alt="Numpy Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
     <br />
     <!-- Others -->
     <img src="https://skillicons.dev/icons?i=threejs,unity,markdown" />
-    <img alt="Apache Cordova Logo" height="40px" width="40px" style="padding: 5px" src="./icons/apache-cordova.svg" />
+    <img alt="Apache Cordova Logo" height="40px" width="40px" style="padding: 5px" src="./icons/skills-and-languages/apache-cordova.svg" />
     <br />
 </div>
 </details>
@@ -79,11 +79,11 @@ TODO: story here
 <details>
 <summary>🔗 Socials</summary>
 <div align="center">
-    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/github.svg" /></a>
-    <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/facebook.svg" /></a>
-    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons/mail.svg" /></a>
-    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/linkedin-in.svg" /></a>
-    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/globe.svg" /></a>
+    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/socials/`github.svg" /></a>
+    <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/socials/`facebook.svg" /></a>
+    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons/socials/`mail.svg" /></a>
+    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/socials/`linkedin-in.svg" /></a>
+    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/socials/`globe.svg" /></a>
     <br />
 </div>
 </details>
