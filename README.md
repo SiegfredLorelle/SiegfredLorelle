@@ -38,16 +38,13 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 </details>
 
 
+<!-- ### 🔗 Socials -->
 
----
 
-### 🔗 Socials
-[<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/facebook.svg" />](https://www.facebook.com/profile.php?id=1718881634)
+<!-- [<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/facebook.svg" />](https://www.facebook.com/profile.php?id=1718881634)
 [<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" />](https://github.com/SiegfredLorelle)
 [<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/linkedin-in.svg" />](https://www.linkedin.com/in/siegfred-lorelle-mina)
-[<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website)
-
-<br />
+[<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website) -->
 
 ---
 
@@ -75,6 +72,20 @@ TODO: projects here
 <details>
 <summary>👨🏻‍💻 My Story</summary>
 TODO: story here
+</details>
+
+---
+
+<details>
+<summary>🔗 Socials</summary>
+<div align="center">
+    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/github.svg" /></a>
+    <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/facebook.svg" /></a>
+    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons/mail.svg" /></a>
+    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/linkedin-in.svg" /></a>
+    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/globe.svg" /></a>
+    <br />
+</div>
 </details>
 
 
