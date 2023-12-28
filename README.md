@@ -5,7 +5,9 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 ---
 
-### 🛠️ Skills and Languages
+<!-- ### 🛠️ Skills and Languages -->
+<details>
+<summary>🛠️ Skills and Languages</summary>
 <div align="center">
     <!-- Languages -->
     <img src="https://skillicons.dev/icons?i=python,js,cs,php,c,r" />
@@ -33,6 +35,9 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <img alt="Apache Cordova Logo" height="40px" width="40px" style="padding: 5px" src="./icons/apache-cordova.svg" />
     <br />
 </div>
+</details>
+
+
 
 ---
 
