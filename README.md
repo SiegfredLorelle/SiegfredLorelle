@@ -6,50 +6,33 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 ---
 
 ### 🛠️ Skills and Languages
-<!-- Languages -->
-<img align="left" alt="Python Logo" height="30px" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C# Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="PHP Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="C Language Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="R Language Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-
-<!-- Databases -->
-<img align="left" alt="SQLite Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="MySQL Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<!-- DevOps -->
-<img align="left" alt="Git Logo" height="30px" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash Logo" height="30px" width="30px" style="padding: 5px;" src="./icons/bash.png" />
-<img align="left" alt="Docker Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-<!-- Data and Machine Learning -->
-<img align="left" alt="HTML Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Bootstrap Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="React Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Flask Logo" height="30px" width="30px" style="padding: 5px" src="./icons/flask.png" />
-<img align="left" alt="Laravel Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="WordPress Logo" height="30px" width="30px" style="padding: 5px" src="./icons/wordpress.svg" />
-<img align="left" alt="SQLAlechemy Logo" height="30px" width="30px" style="padding: 5px" src="./icons/sql-alchemy.png" />
-
-<!-- Web Development -->
-<img align="left" alt="Jupyter Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Pandas Logo" height="30px" width="30px" style="padding: 5px" src="./icons/pandas.jpg" />
-<img align="left" alt="Numpy Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Scikit-learn Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="Matplotlib Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Keras Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-<img align="left" alt="TensorFlow Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-
-<!-- Others -->
-<img align="left" alt="ThreeJS Logo" height="30px" width="30px" style="padding: 5px" src="./icons/threejs.png" />
-<img align="left" alt="Unity Logo" height="30px" width="30px" style="padding: 5px" src="./icons/unity.png" />
-<img alt="Apache Cordova Logo" height="30px" width="30px" style="padding: 5px" src="./icons/apache-cordova.svg" />
-
-<br />
+<div align="center">
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=python,js,cs,php,c,r" />
+    <br />
+    <!-- DevOps -->
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,docker" />
+    <br />
+    <!-- Web Development -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flask,laravel,wordpress,supabase" />
+    <img alt="SQLAlechemy Logo" height="40px" width="40px" style="padding: 5px" src="./icons/sql-alchemy.png" />
+    <br />
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
+    <br />
+    <!-- Data and Machine Learning -->
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+    <img alt="Matplotlib Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+    <img alt="Keras Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+    <img alt="Jupyter Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img alt="Pandas Logo" height="40px" width="40px" style="padding: 5px" src="./icons/pandas.jpg" />
+    <img alt="Numpy Logo" height="40px" width="40px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+    <br />
+    <!-- Others -->
+    <img src="https://skillicons.dev/icons?i=threejs,unity,markdown" />
+    <img alt="Apache Cordova Logo" height="40px" width="40px" style="padding: 5px" src="./icons/apache-cordova.svg" />
+    <br />
+</div>
 
 ---
 
