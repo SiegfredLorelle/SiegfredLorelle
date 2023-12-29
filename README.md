@@ -6,45 +6,45 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 ---
 
 ### 🛠️ Skills and Languages
-<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img  alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-
-<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px;" src="./icons/bash.png" />
-<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/flask.png" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/wordpress.svg" />
-<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/sql-alchemy.png" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/pandas.jpg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding: 5px;" src="./icons/bash.png" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/flask.png" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/wordpress.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/sql-alchemy.png" />
 
 
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/threejs.png" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/unity.png" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/apache-cordova.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/pandas.jpg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+
+
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/threejs.png" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/unity.png" />
+<img alt="Personal Website Logo" height="30px" width="30px" style="padding: 5px" src="./icons/apache-cordova.svg" />
 
 <br />
 
@@ -55,7 +55,6 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 [<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" />](https://github.com/SiegfredLorelle)
 [<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/linkedin-in.svg" />](https://www.linkedin.com/in/siegfred-lorelle-mina)
 [<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website)
-
 
 <br />
 
