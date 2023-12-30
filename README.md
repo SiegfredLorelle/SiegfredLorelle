@@ -29,12 +29,12 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/flask.png" />
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/wordpress.svg" />
 <img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/sql-alchemy.png" />
 
 
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/pandas.jpg" />
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
