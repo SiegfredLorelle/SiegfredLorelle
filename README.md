@@ -81,13 +81,15 @@ TODO: story here
 
 <!-- 
 TODOS:
-- Add infos on skills
+- Finish skills
+    - Add missing icons
+    - Use better icons for light and dark mode
 - Add infos on stats
-- Add infos on socials
 - Add infos on projects
 - Add infos on my journey
 - Toggle dropdown for stats, projects & journey
 - Add top commits badge
+- Convert skills and socials to be dropdown
  -->
 <!--
 **SiegfredLorelle/SiegfredLorelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
