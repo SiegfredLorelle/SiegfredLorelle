@@ -1,5 +1,5 @@
 ### 🔥 Siegfred Lorelle Mina
-Hello I am **[Sig](https://siegfredlorelle.github.io/personal-website/)**. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
+Hello I am **Sig**. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
 
 ---
 
@@ -13,7 +13,7 @@ Hello I am **[Sig](https://siegfredlorelle.github.io/personal-website/)**. I enj
 [<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" />](https://github.com/SiegfredLorelle)
 [<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/linkedin-in.svg" />](https://www.linkedin.com/in/siegfred-lorelle-mina)
 [<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website)
-<!-- <a><img alt="LinkedIn" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" /></a> -->
+
 
 <br />
 
