@@ -1,5 +1,5 @@
 ### 🔥 Siegfred Lorelle Mina
-Hello I am [Sig](https://siegfredlorelle.github.io/personal-website/). I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
+Hello I am **[Sig](https://siegfredlorelle.github.io/personal-website/)**. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
 
 ---
 
@@ -9,11 +9,13 @@ Hello I am [Sig](https://siegfredlorelle.github.io/personal-website/). I enjoy s
 ---
 
 ### 🔗 Socials
-[<img alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/facebook.svg" />](https://www.facebook.com/profile.php?id=1718881634)
-[<img alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" />](https://github.com/SiegfredLorelle)
-[<img alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/linkedin-in.svg" />](https://www.linkedin.com/in/siegfred-lorelle-mina)
-[<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website)
+[<img align="left" alt="Facebook Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/facebook.svg" />](https://www.facebook.com/profile.php?id=1718881634)
+[<img align="left" alt="GitHub Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" />](https://github.com/SiegfredLorelle)
+[<img align="left" alt="LinkedIn Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/linkedin-in.svg" />](https://www.linkedin.com/in/siegfred-lorelle-mina)
+[<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/globe.svg" />](https://siegfredlorelle.github.io/personal-website)
 <!-- <a><img alt="LinkedIn" height="30px" width="30px" style="padding-right: 10px" src="./icons/github.svg" /></a> -->
+
+<br />
 
 ---
 
