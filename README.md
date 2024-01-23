@@ -1,33 +1,41 @@
 ### 🔥 Siegfred Lorelle Mina
 Hello I am Sig. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
 
-#
+---
 
 ### 🛠️ Skills and Languages
 
 
-#
+---
 
 ### 🔗 Socials
 
-#
+---
+
 <details>
 <summary>📈 Stats</summary>
 TODO: socials here
 </details>
 
-#
+---
+
+<details>
+<summary>🐍 Contributions</summary>
+TODO: socials here
+</details>
+
+---
 
 <details>
 <summary>📂 Projects</summary>
 TODO: projects here
 </details>
 
-#
+---
 
 <details>
-<summary>👨🏻‍💻 My Journey</summary>
-TODO: journey here
+<summary>👨🏻‍💻 My Story</summary>
+TODO: story here
 </details>
 
 
