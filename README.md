@@ -12,21 +12,21 @@ Hello I am Sig. I enjoy software development and training AI/ML models. I am cur
 
 #
 <details>
-<summary><h3>📈 Stats</h3></summary>
+<summary>📈 Stats</summary>
 TODO: socials here
 </details>
 
 #
 
 <details>
-<summary><h3>📂 Projects</h3></summary>
+<summary>📂 Projects</summary>
 TODO: projects here
 </details>
 
 #
 
 <details>
-<summary><h3>👨🏻‍💻 My Journey</h3></summary>
+<summary>👨🏻‍💻 My Journey</summary>
 TODO: journey here
 </details>
 
