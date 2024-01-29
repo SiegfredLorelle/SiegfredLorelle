@@ -13,21 +13,21 @@ Hello I am Sig. I enjoy software development and training AI/ML models. I am cur
 ---
 
 <details>
-<summary style='font-size: 1.3em; font-weight: 500;'>📈 Stats</summary>
+<summary><h3>📈 Stats</h3></summary>
 
 </details>
 
 ---
 
 <details>
-<summary style='font-size: 1.3em; font-weight: 500;'>📂 Projects</summary>
+<summary><h3>📂 Projects</h3></summary>
 
 </details>
 
 ---
 
 <details>
-<summary style='font-size: 1.3em; font-weight: 500;'>👨🏻‍💻 My Journey</summary>
+<summary><h3>👨🏻‍💻 My Journey</h3></summary>
 
 </details>
 
