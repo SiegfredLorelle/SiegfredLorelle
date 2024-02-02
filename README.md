@@ -5,21 +5,31 @@ Hello I am Sig. I enjoy software development and training AI/ML models. I am cur
 
 ### 🛠️ Skills and Languages
 
+
 ---
 
 ### 🔗 Socials
 
 ---
 
-### 📈 Stats
+<details>
+<summary style='font-size: 1.3em; font-weight: 500;'>📈 Stats</summary>
+
+</details>
 
 ---
 
-### 📂 Projects
+<details>
+<summary style='font-size: 1.3em; font-weight: 500;'>📂 Projects</summary>
+
+</details>
 
 ---
 
-### 👨🏻‍💻 My Journey
+<details>
+<summary style='font-size: 1.3em; font-weight: 500;'>👨🏻‍💻 My Journey</summary>
+
+</details>
 
 
 <!-- 
