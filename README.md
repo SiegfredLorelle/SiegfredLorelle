@@ -21,6 +21,17 @@ Hello I am Sig. I enjoy software development and training AI/ML models. I am cur
 
 ### 👨🏻‍💻 My Journey
 
+
+<!-- 
+TODOS:
+- Add infos on skills
+- Add infos on stats
+- Add infos on socials
+- Add infos on projects
+- Add infos on my journey
+- Toggle dropdown for stats, projects & journey
+- Add top commits badge
+ -->
 <!--
 **SiegfredLorelle/SiegfredLorelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
