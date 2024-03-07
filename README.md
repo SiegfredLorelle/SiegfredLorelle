@@ -32,11 +32,21 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
 
-<!-- 
-TODO: ICONS TO ADD 
-jupyter pandas numpy scikit learn matplotlib keras tensorflow 
 
--->
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+<img alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+
+
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+<img align="left" alt="Personal Website Logo" height="30px" width="30px" style="padding-right: 10px" src="./icons/apache-cordova.svg" />
+
 <br />
 
 ---
