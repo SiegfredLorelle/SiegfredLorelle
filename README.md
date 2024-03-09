@@ -46,8 +46,8 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <img height="175" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=dark&rank_icon=github&include_all_commits=true">
     <br />
     <img height="500" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark">
-    <!-- <img width="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=dark"> -->
-</div>
+    <!-- <img width="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=dark">
+</div> -->
 
 </details>
 
@@ -94,5 +94,6 @@ TODOS:
 - Add infos on my story
 - Add info in contri
 - Test Wakatime
-- Deploy own vercel for readme stats and streak
+- Deploy own vercel for github readme streak
+- Add links to imgs/logos
  -->
