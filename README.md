@@ -96,8 +96,6 @@ TODO: story here
 TODOS:
 - Add infos on projects
 - Add infos on my story
-- Add info in contri
-- Test Wakatime
-- Deploy own vercel for github readme streak
 - Add links to imgs/logos
+- Dark/Light Mode for stats
  -->
