@@ -55,7 +55,10 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 <details>
 <summary>🐍 Contributions</summary>
-TODO: contri here
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </details>
 
 ---
