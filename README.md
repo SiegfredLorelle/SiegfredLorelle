@@ -42,7 +42,7 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <details>
 <summary>📈 Stats</summary>
 <div align="center">
-    <img height="175" src="https://streak-stats.demolab.com/?user=SiegfredLorelle&theme=dark&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
+    <img height="175" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=dark&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <img height="175" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=dark&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <br />
     <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=dark">
