@@ -47,7 +47,7 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <br />
     <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=dark">
     <br />
-    <img width="250" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
+    <img width="250" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=dark&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
 </div>
 </details>
 
