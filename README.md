@@ -66,7 +66,19 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 <details>
 <summary>📂 Projects</summary>
-TODO: projects here
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 ---
