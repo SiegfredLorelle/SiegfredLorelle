@@ -67,17 +67,18 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <details>
 <summary>📂 Projects</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LopezJER/banana-disease-classification-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app" /></a>
+<a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2" /></a>
+<a href="https://github.com/SiegfredLorelle/compiled-50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50" /></a>
+<a href="https://github.com/SiegfredLorelle/rubiks-solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver" /></a>
+<a href="https://github.com/tephnic813/accre-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website" /></a>
+<a href="https://github.com/SiegfredLorelle/library-management-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app" /></a>
+<a href="https://github.com/SiegfredLorelle/personal-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website" /></a>
+<a href="https://github.com/SiegfredLorelle/pup-hymn-karaoke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke" /></a>
+<a href="https://github.com/edgarpesguerrajr/transcript-generation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system" /></a>
+<a href="https://github.com/SiegfredLorelle/contact-tracing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app" /></a>
+<a href="https://github.com/SiegfredLorelle/address-book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book" /></a>
+<a href="https://github.com/SiegfredLorelle/candy-machine-gui-ver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver" /></a>
 
 </details>
 
