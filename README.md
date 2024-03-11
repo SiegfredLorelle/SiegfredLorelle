@@ -67,18 +67,18 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <details>
 <summary>📂 Projects</summary>
 
-<a href="https://github.com/LopezJER/banana-disease-classification-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/compiled-50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/rubiks-solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2" /></a>
-<a href="https://github.com/tephnic813/accre-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/library-management-app&description_lines_count=2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/personal-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/pup-hymn-karaoke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2" /></a>
-<a href="https://github.com/edgarpesguerrajr/transcript-generation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/contact-tracing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/address-book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2" /></a>
-<a href="https://github.com/SiegfredLorelle/candy-machine-gui-ver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2" /></a>
+<a href="https://github.com/LopezJER/banana-disease-classification-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2&theme=dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/compiled-50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/rubiks-solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/tephnic813/accre-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/library-management-app&description_lines_count=2&theme=dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/personal-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/pup-hymn-karaoke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/edgarpesguerrajr/transcript-generation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/contact-tracing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/address-book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2&theme=dark" /></a>
+<a href="https://github.com/SiegfredLorelle/candy-machine-gui-ver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2&theme=dark" /></a>
 
 </details>
 
