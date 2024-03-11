@@ -1,11 +1,16 @@
 # WIP
 
-### <div align="right">[![committers.top badge](https://user-badge.committers.top/philippines/SiegfredLorelle.svg)](https://user-badge.committers.top/philippines/SiegfredLorelle)</div> 🔥 Siegfred Lorelle Mina 
+<div align="right">
+
+[![committers.top badge](https://user-badge.committers.top/philippines/SiegfredLorelle.svg)](https://user-badge.committers.top/philippines/SiegfredLorelle)
+
+</div> 
+
+### 🔥 Siegfred Lorelle Mina 
 Hello I am **Sig**. I enjoy software development and training AI/ML models. I am currently exploring AI/ML fields such as NLP.
 
 ---
 
-<!-- ### 🛠️ Skills and Languages -->
 <details>
 <summary>🛠️ Skills and Languages</summary>
 <br />
@@ -111,8 +116,7 @@ TODO: story here
 
 <!-- 
 TODOS:
-- Add infos on projects
 - Add infos on my story
 - Add links to imgs/logos
-- Dark/Light Mode for stats
+- Dark/Light Mode for stats/projects
  -->
