@@ -67,7 +67,6 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <details>
 <summary>📂 Projects</summary>
 <div align="center">
-
     <a href="https://github.com/LopezJER/banana-disease-classification-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=github_dark" /></a>
     <a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=github_dark" /></a>
     <a href="https://github.com/SiegfredLorelle/compiled-50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=github_dark" /></a>
