@@ -51,18 +51,18 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <div align="center">
   <!-- GitHub Streak Stats -->
   <a href="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
-  <img height="175" alt="github contribution grid snake animation" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
+  <img height="175" alt="GitHub Streak Stats Card" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
   <!-- GitHub Contribution Stats -->
-  <a href="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
-  <img height="175" alt="github contribution grid snake animation" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
+  <a href="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
+  <img height="175" alt="GitHub Stats Card" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
   <br />
   <!-- WakaTime Stats -->
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=one_dark_pro">
-  <img width="400" alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=one_dark_pro"></a>
+  <img width="400" alt="WakaTime Stats Card" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=one_dark_pro"></a>
  <br />
   <!-- GitHub Languages -->
   <a href="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
-  <img width="250" alt="github contribution grid snake animation" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp"></a>
+  <img width="250" alt="GitHub Most Used Languages Card" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp"></a>
 </div>
 </details>
 
@@ -70,11 +70,11 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 <details>
 <summary>🐍 Contributions</summary>
-<picture>
+<a href="https://raw.githubusercontent.com/SiegfredLorelle/SiegfredLorelle/output/github-contribution-grid-snake.svg"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiegfredLorelle/SiegfredLorelle/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiegfredLorelle/SiegfredLorelle/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SiegfredLorelle/SiegfredLorelle/output/github-contribution-grid-snake.svg">
-</picture>
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/SiegfredLorelle/SiegfredLorelle/output/github-contribution-grid-snake.svg">
+</picture></a>
 </details>
 
 ---
@@ -180,19 +180,11 @@ This passion brought me to school organizations that share the same hobbies such
 <details>
 <summary>🔗 Socials</summary>
 <div align="center">
-    <a href="https://github.com/SiegfredLorelle"><img height="40px" width="40px" src="./icons/socials/github.svg" /></a>
+    <a href="https://github.com/SiegfredLorelle"><img alt="GitHub Logo" height="40px" width="40px" src="./icons/socials/github.svg" /></a>
     <a href="https://www.facebook.com/profile.php?id=1718881634"><img height="40px" width="40px" src="./icons/socials/facebook.svg" /></a>
-    <a href="mailto:siegfredlorelle09@gmail.com"><img height="40px" width="40px" src="./icons//socials/mail.svg" /></a>
-    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img height="40px" width="40px" src="./icons/socials/linkedin-in.svg" /></a>
-    <a href="https://siegfredlorelle.github.io/personal-website"><img height="40px" width="40px" src="./icons/socials/globe.svg" /></a>
+    <a href="mailto:siegfredlorelle09@gmail.com"><img alt="E-mail Logo" height="40px" width="40px" src="./icons//socials/mail.svg" /></a>
+    <a href="https://www.linkedin.com/in/siegfred-lorelle-mina"><img alt="LinkedIn Logo" height="40px" width="40px" src="./icons/socials/linkedin-in.svg" /></a>
+    <a href="https://siegfredlorelle.github.io/personal-website"><img alt="Personal Website Logo" height="40px" width="40px" src="./icons/socials/globe.svg" /></a>
     <br />
 </div>
 </details>
-
-
-
-<!-- 
-TODOS:
-- Add links to imgs/logos
-- Dark/Light Mode for stats/projects
- -->
