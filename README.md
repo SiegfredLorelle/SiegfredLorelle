@@ -70,8 +70,8 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     </picture></a>
     <br />
     <!-- GitHub Languages -->
-    <picture>
-    <a href="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
+    <a href="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=swift&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
     <img width="250" alt="github contribution grid snake animation" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
     </picture></a>
