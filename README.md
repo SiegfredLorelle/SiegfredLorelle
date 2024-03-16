@@ -50,31 +50,31 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <br />
 <div align="center">
     <!-- GitHub Streak Stats -->
-    <a href="https://github.com/SiegfredLorelle/address-book"><picture>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=swift&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <img height="175" alt="github contribution grid snake animation" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
-    </picture></a>
+    </picture>
     <!-- GitHub Contribution Stats -->
-    <a href="https://github.com/SiegfredLorelle/address-book"><picture>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=swift&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <img height="175" alt="github contribution grid snake animation" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
-    </picture></a>
+    </picture>
     <br />
     <!-- WakaTime Stats -->
-    <a href="https://github.com/SiegfredLorelle/address-book"><picture>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=one_dark_pro">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=swift">
     <img width="400" alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/wakatime?username=SiegfredLorelle&layout=compact&theme=one_dark_pro">
-    </picture></a>
+    </picture>
     <br />
     <!-- GitHub Languages -->
-    <a href="https://github.com/SiegfredLorelle/address-book"><picture>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=swift&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
     <img width="250" alt="github contribution grid snake animation" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api/top-langs/?username=SiegfredLorelle&layout=donut-vertical&langs_count=20&theme=one_dark_pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy,laravel-wordpress-prac,portfolio-wp">
-    </picture></a>
+    </picture>
 </div>
 </details>
 
