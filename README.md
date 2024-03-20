@@ -100,7 +100,7 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
     <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=one_dark_pro">
     </picture></a>
     <!-- Accreditation Website -->
-    <a href="https://github.com/tephnic813/accre-website"><picture>
+    <a href="https://github.com/stephnic813/accre-website"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
     <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
