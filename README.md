@@ -125,7 +125,6 @@ This passion brought me to school organizations that share the same hobbies such
 
 <!-- 
 TODOS:
-- Add infos on my story
 - Add links to imgs/logos
 - Dark/Light Mode for stats/projects
  -->
