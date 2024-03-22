@@ -75,24 +75,78 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 <summary>📂 Projects</summary>
 <br />
 <div align="center">
+    <!-- Banana Classification App -->
     <a href="https://github.com/LopezJER/banana-disease-classification-app"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=github_dark_dimmed">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=one_dark_pro">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=swift">
-    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=swift">
-    </picture>
-    </a>
-    <a href="https://github.com/LopezJER/banana-disease-classification-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=one_dark_pro" /></a>
-    <a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/compiled-50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/rubiks-solver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/tephnic813/accre-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/library-management-app&description_lines_count=2&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/personal-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/pup-hymn-karaoke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/edgarpesguerrajr/transcript-generation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/contact-tracing-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/address-book"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2&theme=github_dark" /></a>
-    <a href="https://github.com/SiegfredLorelle/candy-machine-gui-ver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2&theme=github_dark" /></a>
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=LopezJER&repo=banana-disease-classification-app&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Luksong Baka Game -->
+    <a href="https://github.com/SiegfredLorelle/cpe40032-Luksong-Baka-2"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=swift">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=cpe40032-Luksong-Baka-2&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Compiled 50 -->
+    <a href="https://github.com/SiegfredLorelle/compiled-50"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=compiled-50&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Rubiks Solver -->
+    <a href="https://github.com/SiegfredLorelle/rubiks-solver"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=rubiks-solver&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Accreditation Website -->
+    <a href="https://github.com/tephnic813/accre-website"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=stephnic813&repo=accre-website&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Library Management App -->
+    <a href="https://github.com/SiegfredLorelle/library-management-app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=library-management-app&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Personal Website -->
+    <a href="https://github.com/SiegfredLorelle/personal-website"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=personal-website&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- PUP Hymn Karaoke -->
+    <a href="https://github.com/SiegfredLorelle/pup-hymn-karaoke"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=pup-hymn-karaoke&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Transcript Generation System -->
+    <a href="https://github.com/edgarpesguerrajr/transcript-generation-system"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=edgarpesguerrajr&repo=transcript-generation-system&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Contact Tracing App -->
+    <a href="https://github.com/SiegfredLorelle/contact-tracing-app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=contact-tracing-app&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Address Book -->
+    <a href="https://github.com/SiegfredLorelle/address-book"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=address-book&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
+    <!-- Candy Machine GUI App -->
+    <a href="https://github.com/SiegfredLorelle/candy-machine-gui-ver"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2&theme=one_dark_pro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2&theme=one_dark_pro">
+    <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/pin/?username=SiegfredLorelle&repo=candy-machine-gui-ver&description_lines_count=2&theme=one_dark_pro">
+    </picture></a>
 </div>
 
 </details>
