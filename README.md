@@ -95,7 +95,16 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
 
 <details>
 <summary>👨🏻‍💻 My Story</summary>
-TODO: story here
+
+Hello, I am **Siegfred Lorelle C. Mina**, people usually call me **Sig**. I am a 3rd-year computer engineering student at Polytechnic University of the Philippines - Sta. Mesa.
+
+I was introduced to programming before college, although I started to truly appreciate it in my freshmen years.
+
+I enjoy programming, and now it has become a hobby. In my spare time, I try to work on personal projects, take online courses, or solve LeetCode questions.
+
+I love the challenge, the sense of accomplishment when solving a complicated problem, the broadness of the field, and the never-ending ways to solve and optimize solutions. There is so much to learn in programming.
+
+This passion brought me to school organizations that share the same hobbies such as **Google Developer Student Club - PUP**. It allowed me and other members of the organization to explore different fields, hone our skills, collaborate with peers, and overall gain experiences.
 </details>
 
 ---
