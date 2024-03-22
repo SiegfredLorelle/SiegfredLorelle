@@ -48,8 +48,8 @@ Hello I am **Sig**. I enjoy software development and training AI/ML models. I am
   <br />
   <div align="center">
     <!-- GitHub Streak Stats -->
-     <a href="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
-    <img height="175" alt="GitHub Streak Stats Card" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
+     <a href="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro">
+    <img height="175" alt="GitHub Streak Stats Card" src="https://github-readme-streak-stats-git-main-siegfredlorelle.vercel.app/?user=SiegfredLorelle&theme=one-dark-pro"></a>
     <!-- GitHub Contribution Stats -->
     <a href="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy">
     <img height="175" alt="GitHub Stats Card" src="https://github-readme-stats-git-main-siegfredlorelle.vercel.app/api?username=SiegfredLorelle&show=prs_merged,prs_merged_percentage&theme=one_dark_pro&rank_icon=github&include_all_commits=true&exclude_repo=github-readme-streak-stats,github-readme-stats-copy"></a>
