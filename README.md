@@ -1,7 +1,6 @@
 <div align="right">
 
 [![committers.top badge](https://user-badge.committers.top/philippines/SiegfredLorelle.svg)](https://user-badge.committers.top/philippines/SiegfredLorelle)
-
 </div> 
 
 ### 🔥 Siegfred Lorelle Mina 
